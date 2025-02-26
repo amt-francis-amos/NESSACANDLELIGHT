@@ -19,7 +19,7 @@ const Footer = () => (
           <Link to="/">
             <img src={assets.footerLogo} alt="Logo" className="h-12 mb-5" />
           </Link>
-          <p className="text-white max-w-[400px] text-[16px]">
+          <p className="text-white max-w-[350px] text-[16px]">
             We are a nonprofit organization which exists to provide support to
             the vulnerable and needy in society (Africa) through social
             interventions. Nessa Candlelight Foundation is a Non-profit
